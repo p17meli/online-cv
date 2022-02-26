@@ -50,8 +50,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: Ionian University
+    - university: Ionian University
 
 experiences:
     - role: Lead Developer
