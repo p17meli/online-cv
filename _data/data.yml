@@ -12,8 +12,8 @@ sidebar:
     avatar: 43935718.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: p17meli@ionio.gr
-    phone: 6980******
+    email: giorgosmelid@hotmail.com
+    phone: 6980924686
     citizenship: Greek
     github: p17meli
     linkedin: gmelidoniotis
@@ -60,16 +60,16 @@ skills:
 
     toolset:
       - name: Python 
-        level: 70%
+        level: 50%
 
       - name: Java
-        level: 98%
+        level: 85%
 
       - name: C
         level: 90%
 
       - name: C++
-        level: 72%
+        level: 62%
 
       - name: HTML5
         level: 60%
